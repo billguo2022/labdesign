@@ -1,0 +1,15 @@
+{Z:/Desktop/new lab7 p32/ee457_lab7_P3_RTL_Coding_Style_tb_r1_with_additional_tests_for_internal_forwarding.v} {0 {vlog -work work -vopt -stats=none {Z:/Desktop/new lab7 p32/ee457_lab7_P3_RTL_Coding_Style_tb_r1_with_additional_tests_for_internal_forwarding.v}
+QuestaSim-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+-- Compiling module ee457_lab7_P3_tb
+do_read(): BLOCKFILE ERROR (read): unexpected end-of-file
+** Fatal: (vlog-9) Problem while writing token file "Z:/Desktop/new lab7 p32/work/_temp/vlogcniyks".
+** Error: Z:/Desktop/new lab7 p32/ee457_lab7_P3_RTL_Coding_Style_tb_r1_with_additional_tests_for_internal_forwarding.v(301): Verilog Compiler exiting
+
+} {6.0 7.0} {}} {Z:/Desktop/new lab7 p32/ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB.v} {1 {vlog -work work -vopt -stats=none {Z:/Desktop/new lab7 p32/ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB.v}
+QuestaSim-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+-- Compiling module ee457_lab7_P3
+
+Top level modules:
+	ee457_lab7_P3
+
+} {} {}}
